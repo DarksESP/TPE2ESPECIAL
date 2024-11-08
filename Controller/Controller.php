@@ -8,7 +8,6 @@ require_once './view/View.php';
 class Controller
 {
 
-    private $aceituna;
     private $view;
     private $model;
 
